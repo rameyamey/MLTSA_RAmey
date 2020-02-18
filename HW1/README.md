@@ -1,4 +1,4 @@
-This homework assignment reviews how to fir a line to data utilizing the Normal Equation, 
+This homework assignment reviews how to fit a line to data utilizing the Normal Equation, 
 sklearn, and minimizing an objective function (using both L1 and Chi2). 
 
 Group Members: Rachel Amey and Priyanka Mondal
