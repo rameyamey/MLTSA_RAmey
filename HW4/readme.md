@@ -1,4 +1,4 @@
-This file contains my HW4 submissions exploring point of change models and how to deal with outliers. 
+This file contains my HW4 submissions exploring point of change models and how to deal with outliers. ClimateBSTS is also posted for extra credit but this is incomplete. 
 
 Collaborators: Rachel Amey, Alima Nurlan, Priyanka Mondal, Ramiz Qudsi
 
